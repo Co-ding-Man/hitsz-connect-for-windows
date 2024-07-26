@@ -6,7 +6,12 @@
 
 ## 使用方法
 
-**使用前，请务必先看看下面的“一些说明”。** 开箱即用：确保同目录下有 ``zju-connect.exe`` 后，直接点击运行 ``hitsz-connect-for-windows.exe``，输入账户和密码，点击 ``连接`` 即可。
+**使用前，请务必先看看下面的“一些说明”。**
+
+步骤：
+1. 从本仓库的 [Release](https://github.com/Co-ding-Man/hitsz-connect-for-windows/releases) 页面下载最新版本程序。
+2. 确保同目录下有 ``zju-connect.exe``，可从 [zju-connect](https://github.com/Mythologyli/zju-connect) 的 [Release](https://github.com/mythologyli/zju-connect/releases) 页面下载对应平台（Windows）的最新版本。
+3. 直接点击运行 ``hitsz-connect-for-windows.exe``，输入账户和密码，点击 ``连接`` 即可。
 
 ### 写给小白
 
@@ -22,7 +27,7 @@
 
 ## 一些说明
 
-1. 请确保程序所在目录下包含可正常运行的可执行程序 ``zju-connect.exe`` (请确保文件名完全一致，~~因为代码里已经写死了~~)。如果目录下没有，可从这里下载后将对应 ``exe`` 文件复制到该目录下：[https://github.com/Mythologyli/zju-connect/releases](https://github.com/Mythologyli/zju-connect/releases)
+1. 请确保本程序所在目录下包含可正常运行的可执行程序 ``zju-connect.exe`` (请确保文件名完全一致，~~因为代码里已经写死了~~)。
 2. 本程序完全依赖于 [zju-connect](https://github.com/Mythologyli/zju-connect)，是该程序的简陋 Windows GUI 版。
 3. 如果遇到问题，可以依次尝试：
    1. 关闭代理软件后重启该程序；
