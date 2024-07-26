@@ -34,7 +34,7 @@ class CommandLineTool:
         self.process = None
 
     def start(self, args):
-        if proxy_controlled:
+        if proxy_controlled.get():
             set_proxy(enable=True, server='127.0.0.1', port=1081) # 启用代理
 
         startup_info = None
@@ -48,7 +48,7 @@ class CommandLineTool:
             self.process = subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, universal_newlines=True, startupinfo=startup_info)
 
     def stop(self):
-        if proxy_controlled:
+        if proxy_controlled.get():
             set_proxy(enable=False) # 关闭代理
 
         if self.process is not None:
