@@ -1,17 +1,15 @@
 # HITSZ-connect-for-windows
 
-适用于 HITSZ 的开箱即用的 zju-connect 简陋版 GUI for Windows
-
----
-
 ## 使用方法
 
 **使用前，请务必先看看下面的“一些说明”。**
 
 步骤：
+
 1. 从本仓库的 [Release](https://github.com/Co-ding-Man/hitsz-connect-for-windows/releases) 页面下载最新版本程序。
 2. 确保同目录下有 ``zju-connect.exe``，可从 [zju-connect](https://github.com/Mythologyli/zju-connect) 的 [Release](https://github.com/mythologyli/zju-connect/releases) 页面下载对应平台（Windows）的最新版本。
 3. 直接点击运行 ``hitsz-connect-for-windows.exe``，输入账户和密码，点击 ``连接`` 即可。
+4. 使用后最好是通过按键“断开”或“退出”，安全关闭程序，否则可能会有未关闭的 ``zju-connect`` 后台程序。
 
 ### 写给小白
 
