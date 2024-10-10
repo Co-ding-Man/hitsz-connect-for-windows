@@ -1,5 +1,7 @@
 # HITSZ-connect-for-windows
 
+这个还是太简陋了，推荐使用几乎同时发布但远更完善的 [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows)。
+
 ## 使用方法
 
 **使用前，请务必先看看下面的“一些说明”。**
