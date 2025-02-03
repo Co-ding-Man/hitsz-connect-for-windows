@@ -3,7 +3,7 @@
 这个还是太简陋了，推荐使用：
 
 - [chenx-dust/HITsz-Connect-for-Windows](https://github.com/chenx-dust/HITsz-Connect-for-Windows)：专注于 ZJU-Connect 的 ZJU-Connect-for-Windows（HITsz 版）。
-- [kowyo/hitsz-connect-verge](https://github.com/kowyo/hitsz-connect-verge)：轻量级的 ZJU-Connect 客户端，基于 PyQt，支持 Windows 和 macOS，面向 HITSZ 用户。
+- [kowyo/hitsz-connect-verge](https://github.com/kowyo/hitsz-connect-verge)：轻量级的 ZJU-Connect 客户端，基于 PyQt，支持 Windows、Linux 和 macOS，面向 HITSZ 用户。
 
 ## 使用方法
 
